@@ -7,7 +7,7 @@
     "servers": [
       {
         "tag": "dns-remote",
-        "address": "tcp://8.8.4.4",
+        "address": "https://pb30cfa381.cloudflare-gateway.com/dns-query",
         "address_resolver": "dns-direct",
         "strategy": "ipv4_only"
       },
